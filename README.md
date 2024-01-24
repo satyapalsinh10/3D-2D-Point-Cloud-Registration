@@ -9,7 +9,7 @@
 The below results display the registration of a 3d sparse map to a 2d floor plan improving the mapping pipeline.
 
 <p align="center">
-  <img src="results/" alt="Undistorted" width="600"/>
+  <img src="results/mapping3d2d.JPG" alt="Undistorted" width="600"/>
 </p>
 
 
